@@ -22,4 +22,18 @@ carrot = Vegetable('carrot', 'orange', True)
 ```
 
 - We define a class called Vegetable who inherits from `object`. By default, classes run the `__init__` method, which is a reserved word for a constructor
+- [More about self & __init__](https://www.tutorialspoint.com/What-is-difference-between-self-and-init-methods-in-python-Class)
 
+
+## Goals:
+- Data types (completed: 5/7)
+- Functions (completed: 5/7)
+- Classes (completed: 5/7)
+- Build a full-stack app (inprogress: 5/7)
+  - flask
+    - frontend
+    - backend => api 
+- nginx
+- unit testing 
+- aws cloud
+- elastic search
